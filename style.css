@@ -1,0 +1,344 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: serif, sans-serif;
+}
+
+/*-----head_section-----*/
+
+.head_container {
+    background-image: url(../images/Rectangle\ 26.png);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 1140px;
+    width: 1920px;
+}
+
+/* -------menu section--------- */
+
+.logo {
+    margin-top: 67px;
+    margin-left: 150px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-top: 67px;
+    margin-left: 63px;
+}
+
+.menu li a {
+    font-family: Open Sans;
+    font-Weight: 400;
+    font-Size: 15px;
+    Line-height: 20.43px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+#menu_home {
+    color: #007F66;
+}
+
+
+.heading h1 {
+    font-weight: 700;
+    font-size: 42px;
+    margin-top: 150px;
+}
+
+.para p {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 10px;
+    color: #007D65;
+}
+
+/* ------backgrounf car-----*/
+
+.car img {
+    margin-top: -135px;
+    width: 100%;
+}
+
+/* ------heading contents -----*/
+
+.contents {
+    margin-top: -306px;
+}
+
+.menu_contact {
+    margin-right: 0px;
+}
+
+.rectangles {
+    margin-top: 165px;
+    margin-left: 40px;
+}
+
+.iphone {
+    margin-right: 100px;
+}
+
+/* ------how it works -----*/
+
+.iphone2 {
+    margin-top: 90px;
+}
+
+.iphone3 {
+    margin-top: 90px;
+    margin-left: 305px;
+}
+
+
+.page2 h2 {
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    margin-top: -11px;
+}
+
+
+.ride1 {
+    margin-top: 280px;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.paragraph1 {
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.ride2 {
+    margin-top: 280px;
+    font-weight: 700;
+    font-size: 34px;
+    margin-left: 105px;
+}
+
+.paragraph2 {
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 105px;
+
+}
+
+.ride3 {
+    margin-top: 300px;
+    font-weight: 700;
+    font-size: 34px;
+    margin-left: 85px;
+}
+
+.paragraph3 {
+    margin-top: 35px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 85px;
+}
+
+/*------Features------*/
+
+.page3 h2 {
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 117px;
+}
+
+.group1 {
+    margin-top: 77px;
+}
+
+.driver1 {
+    margin-top: 57px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.lorem1 {
+    margin-top: 57px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+/*------Testimonial-----*/
+
+.glass {
+    margin-top: 149px;
+}
+
+.lorem2 {
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.name {
+    font-weight: 700;
+    font-size: 19px;
+}
+
+.arrow1 {
+    margin-top: 24px;
+}
+
+.arrow2 {
+    margin-top: 24px;
+    margin-left: 30px;
+}
+
+.group31 {
+    float: right;
+    margin-top: -100px;
+}
+
+
+
+/*--------contact us----*/
+
+.page4 h2 {
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 127px;
+}
+
+.map {
+    margin-top: 100px;
+    border: none;
+}
+
+textarea {
+    width: 100%;
+    height: 213px;
+    border: none;
+}
+
+input {
+    width: 100%;
+    height: 45px;
+    border: none;
+}
+
+.btn-1 {
+    background-color: #00B16E;
+    text-align: center;
+    width: 113px;
+    height: 38px;
+    margin-left: 280px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-weight: 15px;
+    color: #ffffff;
+}
+
+/*------footer-1------*/
+
+.foot-1 {
+    background-image: url(../images/Rectangle\ 40.png);
+    background-size: cover;
+    width: 100%;
+    height: 397px;
+    background-repeat: no-repeat;
+    margin-top: 120px;
+}
+
+.head-1 h2 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+    line-height: 300px;
+    margin-right: 60px;
+}
+
+.head-1 p {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    margin-top: -120px;
+    margin-right: 60px;
+}
+
+.symbols {
+    margin-left: 740px;
+    margin-top: -20px;
+}
+
+/*-------------footer-2----------*/
+.logos {
+    background-color: #000;
+    color: #ffffff;
+    width: 100%;
+    height: 397px;
+}
+
+.logo-1 h3 {
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 255px;
+    line-height: 160px;
+    font: Roboto;
+}
+
+.list4 {
+    margin-left: 255px;
+    margin-top: -10px;
+}
+
+.list4 a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.list4 p {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.instagram {
+    margin-top: 15px;
+}
+
+.home {
+    margin-left: -120px;
+}
+
+.about {
+    margin-left: -165px;
+}
+
+.become {
+    margin-left: -105px;
+}
+
+.mail {
+    margin-left: -130px;
+}
+
+/* -----end-footer----*/
+
+footer {
+    width: 100%;
+    height: 37px;
+    background-color: #101010;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 33px;
+}
